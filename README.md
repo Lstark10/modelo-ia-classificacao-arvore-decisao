@@ -16,10 +16,10 @@ O projeto desenvolve um sistema completo de classificação de clientes empresar
 
 
 ## 🚀 Instalação e Execução
-OBS: Caso queira optar por executar em ambientes como Google collab ou Anaconda jupyter, basta descomentar a primeira célula do arquivo ipynb e executar o arquivo
+OBS: Caso queira optar por executar em ambientes como Google collab ou Anaconda jupyter, basta descomentar a primeira célula do arquivo ipynb e executar o arquivo caso esteja faltando alguma dependencia. É uma alternativa ao arquivo requirements.txt.
 ### Pré-requisitos
 
-- Python 3.8+
+- Python 3.12+
 - pip (gerenciador de pacotes Python)
 
 ### Instalação
@@ -193,16 +193,6 @@ Lance interface para predições:
 - Execute célula do Gradio
 - Acesse interface web local
 - Faça upload de CSV para predições
-
-## 🤝 Contribuição
-
-Para contribuir com o projeto:
-
-1. Fork o repositório
-2. Crie uma branch (`git checkout -b feature/NovaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/NovaFeature`)
-5. Abra um Pull Request
 
 ## 📄 Licença
 
